@@ -24,3 +24,5 @@ trainee.printNumberOfWorkingHours()
 trainee.resetNumberOfWorkingHours()
 print("Number of trainee working hours after call to super ",end=' ')
 trainee.printNumberOfWorkingHours()
+
+print('End of file')
